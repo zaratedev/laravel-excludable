@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/zarate-systems/laravel-excludable.svg?style=flat-square)](https://packagist.org/packages/zaratesystems/laravel-excludable)
 [![Total Downloads](https://img.shields.io/packagist/dt/zarate-systems/laravel-excludable.svg?style=flat-square)](https://packagist.org/packages/zarate-systems/laravel-excludable)
-![GitHub Actions](https://github.com/zarate-systems/laravel-excludable/actions/workflows/main.yml/badge.svg)
+[![GitHub Actions](https://github.com/zarate-systems/laravel-excludable/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zarate-systems/laravel-excludable/actions/workflows/main.yml)
 
 ![Banner](
 https://banners.beyondco.de/Laravel%20Excludable.png?theme=dark&packageManager=composer+require&packageName=zaratesystems%2Flaravel-excludable&pattern=connections&style=style_2&description=Exclude+the+provided+elements+from+the+query+results&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
