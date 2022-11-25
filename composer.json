@@ -2,7 +2,8 @@
     "name": "zaratesystems/laravel-excludable",
     "description": "Exclude the provided elements from the query results.",
     "keywords": [
-        "zaratesystems",
+        "exclude",
+        "eloquent-models",
         "laravel-excludable"
     ],
     "homepage": "https://github.com/zaratesystems/laravel-excludable",

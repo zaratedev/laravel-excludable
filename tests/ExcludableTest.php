@@ -1,6 +1,6 @@
 <?php
 
-namespace Zaratesystems\LaravelExcludable;
+namespace Zaratesystems\LaravelExcludable\Tests;
 
 use Illuminate\Contracts\Console\Kernel;
 use Illuminate\Database\Eloquent\Model;
@@ -8,7 +8,7 @@ use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Schema;
-use Tests\TestCase;
+use Zaratesystems\LaravelExcludable\Excludable;
 
 class ExcludableTest extends TestCase
 {
