@@ -6,7 +6,7 @@
         "eloquent-models",
         "laravel-excludable"
     ],
-    "homepage": "https://github.com/zaratesystems/laravel-excludable",
+    "homepage": "https://github.com/zarate-systems/laravel-excludable",
     "license": "MIT",
     "type": "library",
     "authors": [
