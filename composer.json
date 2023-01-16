@@ -1,12 +1,12 @@
 {
-    "name": "zaratesystems/laravel-excludable",
+    "name": "zaratedev/laravel-excludable",
     "description": "Exclude the provided elements from the query results.",
     "keywords": [
         "exclude",
         "eloquent-models",
         "laravel-excludable"
     ],
-    "homepage": "https://github.com/zarate-systems/laravel-excludable",
+    "homepage": "https://github.com/zaratedev/laravel-excludable",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Zaratesystems\\LaravelExcludable\\": "src"
+            "ZarateDev\\LaravelExcludable\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Zaratesystems\\LaravelExcludable\\Tests\\": "tests"
+            "ZarateDev\\LaravelExcludable\\Tests\\": "tests"
         }
     },
     "scripts": {

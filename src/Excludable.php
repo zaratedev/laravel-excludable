@@ -1,6 +1,6 @@
 <?php
 
-namespace Zaratesystems\LaravelExcludable;
+namespace ZarateDev\LaravelExcludable;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;

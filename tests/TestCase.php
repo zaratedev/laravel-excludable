@@ -1,6 +1,6 @@
 <?php
 
-namespace Zaratesystems\LaravelExcludable\Tests;
+namespace ZarateDev\LaravelExcludable\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
 
