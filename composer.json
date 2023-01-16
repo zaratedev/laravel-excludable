@@ -41,15 +41,5 @@
     },
     "config": {
         "sort-packages": true
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Zaratesystems\\LaravelExcludable\\LaravelExcludableServiceProvider"
-            ],
-            "aliases": {
-                "LaravelExcludable": "Zaratesystems\\LaravelExcludable\\LaravelExcludableFacade"
-            }
-        }
     }
 }
