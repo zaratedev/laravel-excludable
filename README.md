@@ -4,8 +4,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/zaratedev/laravel-excludable.svg?style=flat-square)](https://packagist.org/packages/zaratedev/laravel-excludable)
 [![GitHub Actions](https://github.com/zaratedev/laravel-excludable/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zaratedev/laravel-excludable/actions/workflows/main.yml)
 
-![Banner](
-https://banners.beyondco.de/Laravel%20Excludable.png?theme=dark&packageManager=composer+require&packageName=zaratesystems%2Flaravel-excludable&pattern=connections&style=style_2&description=Exclude+the+provided+elements+from+the+query+results&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
+![Banner](https://banners.beyondco.de/Laravel%20Excludable.png?theme=light&packageManager=composer+require&packageName=zaratedev%2Flaravel-excludable&pattern=fourPointStars&style=style_1&description=Exclude+the+provided+elements+from+the+query+results&md=1&showWatermark=0&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
 
 This package allow to your eloquent models apply exclude provides elements from the query results.
 
