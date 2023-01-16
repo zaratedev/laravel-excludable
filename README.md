@@ -1,6 +1,6 @@
 # Laravel Excludable
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/zaratedev/laravel-excludable.svg?style=flat-square)](https://packagist.org/packages/zaratedev/laravel-excludable)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/zaratedev/laravel-excludable)
 [![Total Downloads](https://img.shields.io/packagist/dt/zaratedev/laravel-excludable.svg?style=flat-square)](https://packagist.org/packages/zaratedev/laravel-excludable)
 [![GitHub Actions](https://github.com/zaratedev/laravel-excludable/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zaratedev/laravel-excludable/actions/workflows/main.yml)
 
